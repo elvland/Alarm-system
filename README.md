@@ -1,10 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Alarm System</title>
-</head>
+
 <body>
   <h1>Alarm System</h1>
   <p>This project implements a simple alarm system using Python and various libraries such as OpenCV, Pygame, and threading. The system monitors a video feed from a camera and triggers an alarm when certain conditions are met.</p>
